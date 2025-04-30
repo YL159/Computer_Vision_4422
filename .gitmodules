@@ -1,0 +1,9 @@
+[submodule "Seam_Carving"]
+	path = Seam_Carving
+	url = git@github.com:YL159/Seam_Carving.git
+[submodule "Image_Stitching"]
+	path = Image_Stitching
+	url = git@github.com:YL159/Image_Stitching.git
+[submodule "Optical_Flow"]
+	path = Optical_Flow
+	url = git@github.com:YL159/Optical_Flow.git
