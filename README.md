@@ -9,6 +9,6 @@ RANSAC based homograph conversion to create image stitching/panorama
 
 **Optical Flow**:\
 LK optical flow detection on sequential images\
-KLT tracker on video frames (fail)
+KLT tracker on video frames, incomplete
 
 Copy projects into Jupyter Notebook `src/` folder.
